@@ -16,10 +16,15 @@ My EFI files for my Hackintosh desktop. Specs below.
 ## what works
 
 - Everything I've tested
+- Xcode!
+
+## what doesn't
+
+- Emulation in Xcode/Android Studio
 
 ## what i haven't tested
 
-- iServices
+- iServices (I don't use an iPhone)
 - Motherboard audio (I use a SteelSeries Arctis 7 USB audio card)
 
 ## kexts/drivers/config.plist
