@@ -1,6 +1,8 @@
 # ryzen-hackintosh-opencore-efi
 
-My EFI files for my Hackintosh desktop. Specs below.
+EFI files for my Hackintosh desktop. Specs below.
+
+If you have any questions/issues, **please let me know!** I've fixed too many minor problems to list here.
 
 ## specs
 
